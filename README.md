@@ -1,1 +1,3 @@
-# GuiaGitHub-20255158-
+Nombre: Carlos Andres Amaya Rengifo
+Carnet: 20255158
+Sección: 1
